@@ -1,7 +1,11 @@
-"# Portfolio" 
+# Portfolio  
 
-This is my portfolio website using Html,CSS ,Java script
+This is my personal portfolio website built using **HTML, CSS, and JavaScript**.  
+It showcases my projects, skills, and experience in web development.  
 
+✨ Features:  
+- Responsive design for all devices  
+- Smooth navigation and animations  
+- Clean and modern UI  
 
-
-Live Link : https://diya5maheshwari.github.io/Portfolio/
+🔗 Live Demo: [Click Here](https://diya5maheshwari.github.io/Portfolio/)  
